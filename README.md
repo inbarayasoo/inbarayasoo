@@ -1,6 +1,6 @@
 # Hi there, I'm Inbar Ayaso 👋
 
-## 🚀 Embedded Engineer | Network Engineer | Algorithm Engineer
+## 🚀 Embedded Engineer | Network Engineer 
 
 ## 💡 My Projects
 
